@@ -20,7 +20,7 @@ This repository documents my 43-day coding challenge, where I solve LeetCode pro
 | Day | Problem | Difficulty | Status |
 |-----|---------|------------|--------|
 | 1 | Two Sum | Easy | ✅ Completed |
-| 1 | Valid Palindrome | Easy | ✅ Completed |
+| 2 | Valid Palindrome | Easy | ✅ Completed |
 
 ---
 Learning, practicing, and growing one problem at a time.
