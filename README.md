@@ -21,6 +21,10 @@ This repository documents my 43-day coding challenge, where I solve LeetCode pro
 |-----|---------|------------|--------|
 | 1 | Two Sum | Easy | ✅ Completed |
 | 2 | Valid Palindrome | Easy | ✅ Completed |
+| 3 | Roman to Integer | Easy | ✅ Completed |
+| 4 | Find numbers with Even digits | Easy | ✅ Completed |
+| 5 | FizzBuzz | Easy | ✅ Completed |
+| 6 | Valid Parenthesis | Easy | ✅ Completed |
 
 ---
 Learning, practicing, and growing one problem at a time.
