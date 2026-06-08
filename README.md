@@ -27,6 +27,7 @@ This repository documents my 43-day coding challenge, where I solve LeetCode pro
 | 6 | Valid Parenthesis | Easy | ✅ Completed |
 | 7 | Group Anagrams | Medium | ✅ Completed |
 | 8 | Maximum Subarray | Easy | ✅ Completed |
+| 9 | Merge Intervals | Medium | ✅ Completed |
 
 ---
 Learning, practicing, and growing one problem at a time.
