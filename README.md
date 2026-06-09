@@ -28,6 +28,7 @@ This repository documents my 43-day coding challenge, where I solve LeetCode pro
 | 7 | Group Anagrams | Medium | ✅ Completed |
 | 8 | Maximum Subarray | Easy | ✅ Completed |
 | 9 | Merge Intervals | Medium | ✅ Completed |
+| 10 | Remove Linked List elements | Easy | ✅ Completed |
 
 ---
 Learning, practicing, and growing one problem at a time.
