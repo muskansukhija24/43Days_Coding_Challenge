@@ -34,6 +34,7 @@ Throughout this challenge, I practice on **LeetCode** and **Codeforces**, focusi
 | 9 | Merge Intervals | Medium | ✅ Completed |
 | 10 | Remove Linked List Elements | Easy | ✅ Completed |
 | 11 | Find First and Last Position of Element in Sorted Array | Medium | ✅ Completed |
+| 12 | Best time to buy and sell stock | Easy | ✅ Completed |
 
 ## 📌 Challenge Objective
 By the end of this challenge, I aim to:
