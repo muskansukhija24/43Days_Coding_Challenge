@@ -37,6 +37,7 @@ Throughout this challenge, I practice on **LeetCode** and **Codeforces**, focusi
 | 12 | Best time to buy and sell stock | Easy | ✅ Completed |
 | 13 | Watermelon | Easy | ✅ Completed |
 | 14 | Way too long words | Easy | ✅ Completed |
+| 15 | Team | Easy | ✅ Completed |
 
 ## 📌 Challenge Objective
 By the end of this challenge, I aim to:
