@@ -39,6 +39,7 @@ Throughout this challenge, I practice on **LeetCode** and **Codeforces**, focusi
 | 14 | Way too long words | Easy | ✅ Completed |
 | 15 | Team | Easy | ✅ Completed |
 | 16 | Palindrome number | Easy | ✅ Completed |
+| 17 | Word Capitalization | Easy | ✅ Completed |
 
 ## 📌 Challenge Objective
 By the end of this challenge, I aim to:
