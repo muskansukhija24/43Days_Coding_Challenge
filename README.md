@@ -41,6 +41,7 @@ Throughout this challenge, I practice on **LeetCode** and **Codeforces**, focusi
 | 16 | Palindrome number | Easy | ✅ Completed |
 | 17 | Word Capitalization | Easy | ✅ Completed |
 | 18 | String Task | Easy | ✅ Completed |
+| 19 | Petya and strings | Easy | ✅ Completed |
 
 ## 📌 Challenge Objective
 By the end of this challenge, I aim to:
