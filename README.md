@@ -42,6 +42,7 @@ Throughout this challenge, I practice on **LeetCode** and **Codeforces**, focusi
 | 17 | Word Capitalization | Easy | ✅ Completed |
 | 18 | String Task | Easy | ✅ Completed |
 | 19 | Petya and strings | Easy | ✅ Completed |
+| 20 | Helpful maths | Easy | ✅ Completed |
 
 ## 📌 Challenge Objective
 By the end of this challenge, I aim to:
