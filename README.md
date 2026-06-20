@@ -43,6 +43,7 @@ Throughout this challenge, I practice on **LeetCode** and **Codeforces**, focusi
 | 18 | String Task | Easy | ✅ Completed |
 | 19 | Petya and strings | Easy | ✅ Completed |
 | 20 | Helpful maths | Easy | ✅ Completed |
+| 21 | Boy or Girl | Easy-Medium | ✅ Completed |
 
 ## 📌 Challenge Objective
 By the end of this challenge, I aim to:
