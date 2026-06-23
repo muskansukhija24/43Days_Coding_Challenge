@@ -44,6 +44,7 @@ Throughout this challenge, I practice on **LeetCode** and **Codeforces**, focusi
 | 19 | Petya and strings | Easy | ✅ Completed |
 | 20 | Helpful maths | Easy | ✅ Completed |
 | 21 | Boy or Girl | Easy-Medium | ✅ Completed |
+| 22 | Reverse Linked list | Easy | ✅ Completed |
 
 ## 📌 Challenge Objective
 By the end of this challenge, I aim to:
