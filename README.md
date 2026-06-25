@@ -46,6 +46,7 @@ Throughout this challenge, I practice on **LeetCode** and **Codeforces**, focusi
 | 21  | Boy or Girl                                             | Codeforces | Sets & Strings      | ✅ Completed |
 | 22  | Reverse Linked List                                     | LeetCode   | Linked List         | ✅ Completed |
 | 23  | Intersection of Two Linked Lists                        | LeetCode   | Linked List         | ✅ Completed |
+| 24  | Same Tree                        | LeetCode   | Tree         | ✅ Completed |
 
 
 ## 📌 Challenge Objective
