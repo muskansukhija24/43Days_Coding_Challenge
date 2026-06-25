@@ -21,30 +21,32 @@ Throughout this challenge, I practice on **LeetCode** and **Codeforces**, focusi
 
 ## 📈 Progress
 
-| Day | Problem | Difficulty | Status |
-|-----|---------|------------|--------|
-| 1 | Two Sum | Easy | ✅ Completed |
-| 2 | Valid Palindrome | Easy | ✅ Completed |
-| 3 | Roman to Integer | Easy | ✅ Completed |
-| 4 | Find Numbers with Even Digits | Easy | ✅ Completed |
-| 5 | FizzBuzz | Easy | ✅ Completed |
-| 6 | Valid Parentheses | Easy | ✅ Completed |
-| 7 | Group Anagrams | Medium | ✅ Completed |
-| 8 | Maximum Subarray | Easy | ✅ Completed |
-| 9 | Merge Intervals | Medium | ✅ Completed |
-| 10 | Remove Linked List Elements | Easy | ✅ Completed |
-| 11 | Find First and Last Position of Element in Sorted Array | Medium | ✅ Completed |
-| 12 | Best time to buy and sell stock | Easy | ✅ Completed |
-| 13 | Watermelon | Easy | ✅ Completed |
-| 14 | Way too long words | Easy | ✅ Completed |
-| 15 | Team | Easy | ✅ Completed |
-| 16 | Palindrome number | Easy | ✅ Completed |
-| 17 | Word Capitalization | Easy | ✅ Completed |
-| 18 | String Task | Easy | ✅ Completed |
-| 19 | Petya and strings | Easy | ✅ Completed |
-| 20 | Helpful maths | Easy | ✅ Completed |
-| 21 | Boy or Girl | Easy-Medium | ✅ Completed |
-| 22 | Reverse Linked list | Easy | ✅ Completed |
+| Day | Problem                                                 | Platform   | Topic               | Status      |
+| --- | ------------------------------------------------------- | ---------- | ------------------- | ----------- |
+| 1   | Two Sum                                                 | LeetCode   | Arrays & Hashing    | ✅ Completed |
+| 2   | Valid Palindrome                                        | LeetCode   | Two Pointers        | ✅ Completed |
+| 3   | Roman to Integer                                        | LeetCode   | Strings             | ✅ Completed |
+| 4   | Find Numbers with Even Digits                           | LeetCode   | Arrays              | ✅ Completed |
+| 5   | FizzBuzz                                                | LeetCode   | Simulation          | ✅ Completed |
+| 6   | Valid Parentheses                                       | LeetCode   | Stack               | ✅ Completed |
+| 7   | Group Anagrams                                          | LeetCode   | Hash Map & Strings  | ✅ Completed |
+| 8   | Maximum Subarray                                        | LeetCode   | Dynamic Programming | ✅ Completed |
+| 9   | Merge Intervals                                         | LeetCode   | Intervals           | ✅ Completed |
+| 10  | Remove Linked List Elements                             | LeetCode   | Linked List         | ✅ Completed |
+| 11  | Find First and Last Position of Element in Sorted Array | LeetCode   | Binary Search       | ✅ Completed |
+| 12  | Best Time to Buy and Sell Stock                         | LeetCode   | Arrays              | ✅ Completed |
+| 13  | Watermelon                                              | Codeforces | Math                | ✅ Completed |
+| 14  | Way Too Long Words                                      | Codeforces | Strings             | ✅ Completed |
+| 15  | Team                                                    | Codeforces | Implementation      | ✅ Completed |
+| 16  | Palindrome Number                                       | LeetCode   | Math                | ✅ Completed |
+| 17  | Word Capitalization                                     | Codeforces | Strings             | ✅ Completed |
+| 18  | String Task                                             | Codeforces | Strings             | ✅ Completed |
+| 19  | Petya and Strings                                       | Codeforces | Strings             | ✅ Completed |
+| 20  | Helpful Maths                                           | Codeforces | Sorting & Strings   | ✅ Completed |
+| 21  | Boy or Girl                                             | Codeforces | Sets & Strings      | ✅ Completed |
+| 22  | Reverse Linked List                                     | LeetCode   | Linked List         | ✅ Completed |
+| 23  | Intersection of Two Linked Lists                        | LeetCode   | Linked List         | ✅ Completed |
+
 
 ## 📌 Challenge Objective
 By the end of this challenge, I aim to:
