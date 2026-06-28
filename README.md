@@ -51,6 +51,7 @@ Throughout this challenge, I practice on **LeetCode** and **Codeforces**, focusi
 | 26  | Bit++                        | Codeforces   | Implementation         | ✅ Completed |
 | 27  | Next Round                        | Codeforces   | Implementation         | ✅ Completed |
 | 28  | Theatre Square                        | Codeforces   | Maths         | ✅ Completed |
+| 29  | Search Insert Position                        | Leetcode   | Arrays         | ✅ Completed |
 
 
 ## 📌 Challenge Objective
