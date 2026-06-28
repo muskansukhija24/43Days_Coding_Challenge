@@ -49,6 +49,7 @@ Throughout this challenge, I practice on **LeetCode** and **Codeforces**, focusi
 | 24  | Same Tree                        | LeetCode   | Tree         | ✅ Completed |
 | 25  | Contains Duplicates                        | LeetCode   | Sorting         | ✅ Completed |
 | 26  | Bit++                        | Codeforces   | Implementation         | ✅ Completed |
+| 27  | Next Round                        | Codeforces   | Implementation         | ✅ Completed |
 
 
 ## 📌 Challenge Objective
