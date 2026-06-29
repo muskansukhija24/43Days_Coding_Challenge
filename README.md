@@ -52,6 +52,7 @@ Throughout this challenge, I practice on **LeetCode** and **Codeforces**, focusi
 | 27  | Next Round                        | Codeforces   | Implementation         | ✅ Completed |
 | 28  | Theatre Square                        | Codeforces   | Maths         | ✅ Completed |
 | 29  | Search Insert Position                        | Leetcode   | Arrays         | ✅ Completed |
+| 30  | Domino Piling                        | Codeforces   | Maths         | ✅ Completed |
 
 
 ## 📌 Challenge Objective
