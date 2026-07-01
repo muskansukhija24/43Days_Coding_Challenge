@@ -53,6 +53,7 @@ Throughout this challenge, I practice on **LeetCode** and **Codeforces**, focusi
 | 28  | Theatre Square                        | Codeforces   | Maths         | ✅ Completed |
 | 29  | Search Insert Position                        | Leetcode   | Arrays         | ✅ Completed |
 | 30  | Domino Piling                        | Codeforces   | Maths         | ✅ Completed |
+| 31  | Majority Element II                       | Leetcode   | Counting         | ✅ Completed |
 
 
 ## 📌 Challenge Objective
