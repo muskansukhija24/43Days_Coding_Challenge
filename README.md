@@ -55,6 +55,7 @@ Throughout this challenge, I practice on **LeetCode** and **Codeforces**, focusi
 | 30  | Domino Piling                        | Codeforces   | Maths         | ✅ Completed |
 | 31  | Majority Element II                       | Leetcode   | Counting         | ✅ Completed |
 | 32  | Merge Sorted Arrays                       | Leetcode   | Arrays         | ✅ Completed |
+| 33  | Length of the last word                       | Leetcode   | String         | ✅ Completed |
 
 
 ## 📌 Challenge Objective
