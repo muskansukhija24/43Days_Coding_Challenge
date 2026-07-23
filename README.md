@@ -60,6 +60,7 @@ Throughout this challenge, I practice on **LeetCode** and **Codeforces**, focusi
 | 35  | cAPS Lock                       | Codeforces   | Strings         | ✅ Completed |
 | 36  | Lucky Division                       | Codeforces   | 	Number Theory         | ✅ Completed |
 | 37  | Word                       | Codeforces   | Strings         | ✅ Completed |
+| 38  | Calculating function                      | Codeforces   | Math         | ✅ Completed |
 
 
 ## 📌 Challenge Objective
