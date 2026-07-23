@@ -58,6 +58,7 @@ Throughout this challenge, I practice on **LeetCode** and **Codeforces**, focusi
 | 33  | Length of the last word                       | Leetcode   | String         | ✅ Completed |
 | 34  | Sum of unique elements                       | Leetcode   | Arrays         | ✅ Completed |
 | 35  | cAPS Lock                       | Codeforces   | Strings         | ✅ Completed |
+| 36  | Lucky Division                       | Codeforces   | 	Number Theory         | ✅ Completed |
 
 
 ## 📌 Challenge Objective
