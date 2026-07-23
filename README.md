@@ -56,6 +56,8 @@ Throughout this challenge, I practice on **LeetCode** and **Codeforces**, focusi
 | 31  | Majority Element II                       | Leetcode   | Counting         | ✅ Completed |
 | 32  | Merge Sorted Arrays                       | Leetcode   | Arrays         | ✅ Completed |
 | 33  | Length of the last word                       | Leetcode   | String         | ✅ Completed |
+| 34  | Sum of unique elements                       | Leetcode   | Arrays         | ✅ Completed |
+| 35  | cAPS Lock                       | Codeforces   | Strings         | ✅ Completed |
 
 
 ## 📌 Challenge Objective
