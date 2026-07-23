@@ -62,6 +62,7 @@ Throughout this challenge, I practice on **LeetCode** and **Codeforces**, focusi
 | 37  | Word                       | Codeforces   | Strings         | ✅ Completed |
 | 38  | Calculating function                      | Codeforces   | Math         | ✅ Completed |
 | 39  | Beautiful Matrix                       | Codeforces   | Implementation         | ✅ Completed |
+| 40  | Stones on the table                       | Codeforces   | Strings         | ✅ Completed |
 
 
 ## 📌 Challenge Objective
