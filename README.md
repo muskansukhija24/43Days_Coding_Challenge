@@ -61,7 +61,7 @@ Throughout this challenge, I practice on **LeetCode** and **Codeforces**, focusi
 | 36  | Lucky Division                       | Codeforces   | 	Number Theory         | ✅ Completed |
 | 37  | Word                       | Codeforces   | Strings         | ✅ Completed |
 | 38  | Calculating function                      | Codeforces   | Math         | ✅ Completed |
-| 27  | Beautiful Matrix                       | Codeforces   | Implementation         | ✅ Completed |
+| 39  | Beautiful Matrix                       | Codeforces   | Implementation         | ✅ Completed |
 
 
 ## 📌 Challenge Objective
