@@ -5,11 +5,14 @@
 ![Platform](https://img.shields.io/badge/Platforms-LeetCode%20%7C%20Codeforces-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
+> A 43-day journey of solving one coding problem every day to strengthen my DSA and competitive programming skills.
 
-## Overview
-This repository documents my **43 Days Coding Challenge**, where I solve coding problems daily to improve my problem-solving skills and strengthen my understanding of **Data Structures & Algorithms (DSA)** using **C++**.
 
-Throughout this challenge, I practice on **LeetCode** and **Codeforces**, focusing on consistency, algorithmic thinking, and continuous improvement.
+## 📖 Overview
+
+This repository documents my successful completion of the **43 Days Coding Challenge**, where I solved one coding problem every day to strengthen my understanding of **Data Structures & Algorithms (DSA)** using **C++**.
+
+Throughout this journey, I consistently practiced on **LeetCode** and **Codeforces**, improving my problem-solving skills, algorithmic thinking, and coding consistency. This repository serves as a record of my learning progress and commitment to continuous improvement.
 
 ##  Challenge Highlights
 
