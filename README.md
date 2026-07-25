@@ -11,25 +11,25 @@ This repository documents my **43 Days Coding Challenge**, where I solve coding 
 
 Throughout this challenge, I practice on **LeetCode** and **Codeforces**, focusing on consistency, algorithmic thinking, and continuous improvement.
 
-## 🏆 Challenge Highlights
+##  Challenge Highlights
 
-- ✅ Solved 43 coding problems in 43 consecutive days
-- 💻 Practiced on LeetCode and Codeforces
-- 📚 Covered multiple DSA topics
-- 🚀 Improved consistency and problem-solving skills
+-  Solved 43 coding problems in 43 consecutive days
+-  Practiced on LeetCode and Codeforces
+-  Covered multiple DSA topics
+-  Improved consistency and problem-solving skills
 
-## 🎯 Goals
+##  Goals
 - Build consistency through daily coding
 - Strengthen DSA concepts
 - Improve algorithmic thinking
 - Enhance C++ programming skills
 - Develop competitive programming skills
 
-## 💻 Platforms
+##  Platforms
 - LeetCode
 - Codeforces
 
-## 🛠️ Language
+##  Language
 - C++
 
 ## 📂 Repository Structure
@@ -44,7 +44,7 @@ Throughout this challenge, I practice on **LeetCode** and **Codeforces**, focusi
 │
 └── README.md
 ```
-## 📊 Challenge Statistics
+##  Challenge Statistics
 
 | Metric | Value |
 |--------|-------|
@@ -106,7 +106,7 @@ Throughout this challenge, I practice on **LeetCode** and **Codeforces**, focusi
 | 43  | Drinks                       | Codeforces   | Math         | ✅ Completed |
 
 
-## 🎉 Challenge Outcome
+##  Challenge Outcome
 
 Successfully completing this challenge helped me:
 
@@ -116,7 +116,7 @@ Successfully completing this challenge helped me:
 - Build consistency through daily practice
 - Gain confidence in solving coding problems
 
-## 🚀 What's Next?
+##  What's Next?
 
 - Solve more medium and hard DSA problems
 - Participate in coding contests regularly
@@ -124,7 +124,7 @@ Successfully completing this challenge helped me:
 - Learn advanced algorithms and data structures
 - Continue building strong problem-solving skills
 ---
-## 🌟 Final Thoughts
+##  Final Thoughts
 
 Completing this challenge strengthened both my coding skills and my consistency. I look forward to continuing my journey by solving more challenging problems and improving every day.
 
