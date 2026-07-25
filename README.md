@@ -63,6 +63,8 @@ Throughout this challenge, I practice on **LeetCode** and **Codeforces**, focusi
 | 38  | Calculating function                      | Codeforces   | Math         | ✅ Completed |
 | 39  | Beautiful Matrix                       | Codeforces   | Implementation         | ✅ Completed |
 | 40  | Stones on the table                       | Codeforces   | Strings         | ✅ Completed |
+| 41  | Translation                       | Codeforces   | Strings         | ✅ Completed |
+| 42  | Twins                       | Codeforces   | Greedy         | ✅ Completed |
 
 
 ## 📌 Challenge Objective
