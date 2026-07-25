@@ -65,6 +65,7 @@ Throughout this challenge, I practice on **LeetCode** and **Codeforces**, focusi
 | 40  | Stones on the table                       | Codeforces   | Strings         | ✅ Completed |
 | 41  | Translation                       | Codeforces   | Strings         | ✅ Completed |
 | 42  | Twins                       | Codeforces   | Greedy         | ✅ Completed |
+| 43  | Drinks                       | Codeforces   | Maths         | ✅ Completed |
 
 
 ## 📌 Challenge Objective
